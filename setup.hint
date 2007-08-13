@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXext6 libXi6 libXinerama1 libXp6 libXrender1 libXtst6 libXxf86dga1 libdmx1
+requires: cygwin libX11_6 libXext6 libXi6 libXp6 libXrender1 libXtst6 libdmx1
 sdesc: "Xorg X display information utility"
 ldesc: "Xorg X display information utility"
