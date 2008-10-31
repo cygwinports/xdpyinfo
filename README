@@ -4,7 +4,6 @@ X.Org X display information utility
 
 Runtime requirements:
   cygwin-1.5.25-15
-  libdmx1-1.0.2-1
   libX11_6-1.1.5-1
   libXext6-1.0.4-1
   libXi6-1.1.3-1
@@ -16,7 +15,7 @@ Build requirements:
   autoconf2.5-2.63-1
   automake1.10-1.10.1-1
   binutils-20080624-2
-  cygport-0.4.3-1
+  cygport-0.4.2-1
   gawk-3.1.6-1
   gcc-core-3.4.4-3
   libtool-2.2.6a-1
@@ -56,6 +55,9 @@ Files included in the binary package:
 ------------------
 
 Port Notes:
+
+----- version 1.0.3-2 -----
+Removed dependency on obsolete DMX.
 
 ----- version 1.0.3-1 -----
 Version bump for X11R7.4.

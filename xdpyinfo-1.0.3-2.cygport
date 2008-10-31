@@ -1,0 +1,3 @@
+inherit xorg
+
+CYGCONF_ARGS="--without-dga --without-dmx --without-xinerama"
