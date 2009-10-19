@@ -1,0 +1,3 @@
+inherit xorg
+
+CYGCONF_ARGS="--without-dga --without-xprint --without-xf86misc"
