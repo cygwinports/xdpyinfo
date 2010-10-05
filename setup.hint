@@ -1,4 +1,4 @@
 category: X11
-requires: libdmx1 libgcc1 libX11_6 libXcomposite1 libXext6 libXi6 libXinerama1 libXrender1 libXtst6
+requires: libdmx1 libX11_6 libXcomposite1 libXext6 libXi6 libXinerama1 libXrender1 libXtst6
 sdesc: "X.Org X display information utility"
 ldesc: "X.Org X display information utility"
