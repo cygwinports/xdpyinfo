@@ -1,7 +1,7 @@
 inherit xorg
 
 NAME="xdpyinfo"
-VERSION=1.3.0
+VERSION=1.3.1
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org X display information utility"
